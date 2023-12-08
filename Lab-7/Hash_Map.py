@@ -1,7 +1,7 @@
 #Name: Hash_Map.py
 #Author: Harrison Reed
 #Date: 10/30/2023
-#Description: Program for EECS_330 lab 7, in which we implement a hash map, and test its functionality
+#Description: Program for EECS lab 7, in which we implement a hash map, and test its functionality
 
 
 class HashMap:
