@@ -1,7 +1,7 @@
 #Name: Lab10.py
 #Author: Harrison Reed
 #Date: 11/21/2023
-#Description: Program for EECS 330 Lab 10 that implements Selection, Heap, and Merge Sort
+#Description: Program for EECS Lab 10 that implements Selection, Heap, and Merge Sort
 
 import math
 import time
