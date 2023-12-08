@@ -1,6 +1,6 @@
 #Author: Harrison Reed
 #Date: 11/6/2023
-#Description: Graph Traversal section for Lab 8 in EECS_330. Methods contained implement add_edge, depth first search and breadth first search
+#Description: Graph Traversal section for Lab 8 in EECS. Methods contained implement add_edge, depth first search and breadth first search
 
 class Graph:
     def __init__(self, vertices):
