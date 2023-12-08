@@ -5,7 +5,7 @@ import time
 import sys
 
 #Name: Lab11.py
-#Description: Program for EECS3330 Lab, that implements the Quick Sort Algorithm, and Radix Sort Algorithm
+#Description: Program for EECS Lab, that implements the Quick Sort Algorithm, and Radix Sort Algorithm
 #Author: Harrison Reed
 #Date:12/1/2023
 #Input: Gets input from user for selecting which sort to test
