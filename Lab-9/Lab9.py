@@ -1,7 +1,7 @@
 #Author: Harrison Reed
 #Name:Lab9.py
 #Date: 11/13/2023
-#Description: Program for Lab 9 for EECS 330, Where we implement Dijkstras shortest path algorithm
+#Description: Program for Lab 9 for EECS, Where we implement Dijkstras shortest path algorithm
 #             Prim's Minimum Spanning Tree algorithim, and Kruskal's Minimum Spanning Tree Algorithm
 
 import sys
