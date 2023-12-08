@@ -1,6 +1,6 @@
 #Author: Harrison Reed
 #Date: 11/6/2023
-#Description: Tree Traversal section for Lab 8 in EECS_330. Methods contained implement Preorder Traversal, Inorder Traversal, and Postorder Traversal
+#Description: Tree Traversal section for Lab 8 in EECS. Methods contained implement Preorder Traversal, Inorder Traversal, and Postorder Traversal
 
 class TreeNode:
   def __init__(self, value):
